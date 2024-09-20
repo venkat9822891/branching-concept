@@ -1,0 +1,2 @@
+main void{}
+println{"hi"}
